@@ -135,7 +135,6 @@ int object_write(ObjectType type, const void *data, size_t len, ObjectID *id_out
     mkdir(dir, 0755);
 
     char temp_path[512];
-    char temp_path[512];
 
 size_t dir_len = strlen(dir);
 const char *suffix = "/tmpXXXXXX";
