@@ -19,7 +19,7 @@
 ## Phase 1 — Object Storage
 
 ### Screenshot 1A — `./test_objects` passing
-![1A](1A.png)
+![1A](/screenshots/1A.png)
 
 ### Screenshot 1B — Sharded object directory
 ![1B](1B.png)
