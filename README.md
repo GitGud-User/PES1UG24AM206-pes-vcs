@@ -62,8 +62,8 @@
 ---
 
 ## Integration Test
-![integration-1](/screenshots/5A)
-![integration-2](/screenshots/5B)
+![integration-1](/screenshots/5A.png)
+![integration-2](/screenshots/5B.png)
 
 
 ### Screenshot — `make test-integration`
